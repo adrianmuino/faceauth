@@ -24,7 +24,7 @@ python3 lock.py unlock
 python3 lock.py lock
 ```
 
-To turn work lights.
+To work the lights.
 ```bash
 cd faceauth
 python3 lights.py happy
